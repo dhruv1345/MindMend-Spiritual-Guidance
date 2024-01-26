@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mindmend-9fut",
+  "private_key_id": "b8854d8dde70ec946b265453b1e1bf3ee0ba6d2a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDOxwaUD/ne6Zl/\n48QsrFo7+kiCB957CssKR2/W5sPl+kSsvnO3B86+P/rEEpeNvQHhjEVb+1r0pWzc\n5uqOO60avjbErrNXY+jtA+BWsGVS8ftnQAtIH+bnPOLwsAbkZ7jgrWAM8P6M+a6l\nz69Ye4aTKwjwA1ayiOZnWiJPidzOlTkmv8BmWr8dmqqPpWQiOwxJjSBayingSf3h\nimUqy8+Dp9M0VbkufPqkwGMzAzcUTAmXIjlUlWHkShAQ3ku/uLxyZBuD+lOBO1t9\n7Wr4u16gfVFUlDndGckmqp2JtSi/8UoFREVF1mCw9FcYKOUnwI/wcng+D1ugVPmi\nh/ayic45AgMBAAECgf8nrcl1YBtyyyDJict7RxeJqt1/FkN7GPcdYdf0RRQSbZQA\nEgvic30YxO458ddjO4HA5kno/LLXf2cEfMtFv+3X0+hulZeUjXeFA9loyTCoWgcE\nKSYBER4eAXEK/rxT2BOCCcMEuLogE0mQR+o98HZCh1+PrxRT7jFIY+Nxn+LfQSrP\nGP7pukQWTz91sws13dTyaUH3CemvAvdyJVTvhm9eByIGiwlf654lVFZHCcTKhNwe\nmIvznVeEY9Kn+e7IwV4zm3AIEUb94V1/E2zUJsfU8ECR1qCPBRoPMNpTc6d8pS6w\n6leZqZPKvVVvmfbh0s95Vm+vUEmkY0uv9OL8sQECgYEA9zTtYl0UClAgyA4mHcw3\n4YIGgX25XwbSwan2cuz1ZI1nNhbqABvgfaIy9YtPXBrUkCukJEjOrsxFsTAn9u0w\nRNUY/EwEjxLrD+iP6gsNyB/M1hTT2LHYWpKt+2+fUeBuE1EampHgAmsS9nXV2zCA\nG1BYTJK/4Umm5fXSLig+1zkCgYEA1iHypvACrfOD3TGmVxdLQJipYaA+YCn7Vn6l\nY8/YZQIrxJJoJFSgb6MSZzw4gARYEm2ta29ASOFk9cMkmx5rAz0EC5ryNCm/IJUF\nUoZbl+SDv5p5p2e4dAcP+0GJPXZhHDKtE38sz9qzxqP3D0NEqcr5arzmGDUx+9UV\nzguDrwECgYBjF0YobaMA10msp29D9n5X2KT+9wR9QODuXFC7lJxw5/V9SwYVcRc1\nhPTkVClFhEO8XqH3IXAnxR4Sfnkmk8ELdlgDmf0h1LWAtPorGK83jveuwL6CWBef\nhrhS11WHnmzBNXtyhhLDJWR+gpFswS44xKYAW7qqdbl+6GCNu/gkkQKBgHQVIz5s\njodOpAWdjNdZwWnbWLeb7zSijaZuMarSWjUn4CJIXDyVxAPBG5DrjJWZxUT4QDMl\ntGvOBLVWfNm6u7idszu3W+X7W6mGH8SFIdJOBz4vuBOQnuYHjhpfhM7VBgALWNhg\n8SIdJahh6uVTSj3h0ySSEwq8i8RB1/hDNbgBAoGBAK9l3YPx96AjKY7lzdXoQQpT\nL1QXb3lq+zs+gwtgAF4Xnjxem8qJoDGOvdxiNTv89DpG2cKapQ5D89qqRaO/cM4L\nBjAcnLmynlT5FKyQ4Rpi3ZJcMRtEGLt8TDW5me6+JQIngNFe0Fk/ulsrtiqN+3Wj\nDgJA+xMRslKcy1j3rEHW\n-----END PRIVATE KEY-----\n",
+  "client_email": "mindmend@mindmend-9fut.iam.gserviceaccount.com",
+  "client_id": "117637951236361634672",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mindmend%40mindmend-9fut.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
