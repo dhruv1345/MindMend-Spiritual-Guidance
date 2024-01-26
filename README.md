@@ -3,6 +3,7 @@
 Welcome to MindMend, your go-to app for mental wellness, featuring articles, spiritual videos, video calls, and more.
 
 ## Table of Contents
+[![Permission Required before downloading the code](https://img.shields.io/badge/Permission-Required-red)](mailto:dhruvguptaalgo@gmail.com)
 - [About MindMend](#about-mindmend)
 - [Key Features](#key-features)
 - [Integration](#integration)
@@ -50,7 +51,7 @@ MindMend seamlessly integrates the teachings of the Bhagwat Gita into its conten
 
 ## How to Contribute
 
-We have not opened it for contribution as of now. Keep checking in future. 
+We have not opened it for contribution as of now. Keep checking in the future.
 
 ## Contact Us
 
@@ -61,6 +62,6 @@ For any questions, feedback, or support, feel free to reach out to us:
 - [Privacy Policy for MindMend.pdf](https://github.com/dhruv1345/MindMend-Spiritual-Guidance/files/14066634/Privacy.Policy.for.MindMend.pdf)
 - [Terms & Conditions.pdf](https://github.com/dhruv1345/MindMend-Spiritual-Guidance/files/14066723/Terms.Conditions.pdf)
 
-
+**Note:** Please seek permission from the admin before downloading or using this project.
 
 Thank you for choosing MindMend for your mental wellness journey!
