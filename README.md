@@ -48,6 +48,10 @@ MindMend seamlessly integrates the teachings of the Bhagwat Gita into its conten
   <img src="https://github.com/dhruv1345/MindMend-Spiritual-Guidance/assets/86596711/d6497387-f981-46f9-a605-dc0d79056ff7" width="200" />
 </div>
 
+## How to Contribute
+
+We have not opened it for contribution as of now. Keep checking in future. 
+
 ## Contact Us
 
 For any questions, feedback, or support, feel free to reach out to us:
