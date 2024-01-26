@@ -59,8 +59,6 @@ For any questions, feedback, or support, feel free to reach out to us:
 
 - Email: dhruvguptaalgo@gmail.com
 - LinkedIn: [MindMend LinkedIn Page](https://www.linkedin.com/company/mindmend4u/)
-
-- Privacy Policy
 - [Privacy Policy for MindMend.pdf](https://github.com/dhruv1345/MindMend-Spiritual-Guidance/files/14066634/Privacy.Policy.for.MindMend.pdf)
 
 
