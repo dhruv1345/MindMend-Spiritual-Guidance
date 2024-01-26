@@ -48,11 +48,6 @@ MindMend seamlessly integrates the teachings of the Bhagwat Gita into its conten
   <img src="https://github.com/dhruv1345/MindMend-Spiritual-Guidance/assets/86596711/d6497387-f981-46f9-a605-dc0d79056ff7" width="200" />
 </div>
 
-
-## How to Contribute
-
-We welcome contributions to improve and expand MindMend. If you have suggestions, find issues, or want to contribute code, please follow our [Contribution Guidelines](CONTRIBUTING.md).
-
 ## Contact Us
 
 For any questions, feedback, or support, feel free to reach out to us:
@@ -60,6 +55,8 @@ For any questions, feedback, or support, feel free to reach out to us:
 - Email: dhruvguptaalgo@gmail.com
 - LinkedIn: [MindMend LinkedIn Page](https://www.linkedin.com/company/mindmend4u/)
 - [Privacy Policy for MindMend.pdf](https://github.com/dhruv1345/MindMend-Spiritual-Guidance/files/14066634/Privacy.Policy.for.MindMend.pdf)
+- [Terms & Conditions.pdf](https://github.com/dhruv1345/MindMend-Spiritual-Guidance/files/14066723/Terms.Conditions.pdf)
+
 
 
 Thank you for choosing MindMend for your mental wellness journey!
