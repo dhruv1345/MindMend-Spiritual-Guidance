@@ -3,6 +3,7 @@ import 'package:bhagwat_gita_app/contact_us.dart';
 import 'package:bhagwat_gita_app/councellers.dart';
 import 'package:bhagwat_gita_app/pdf.dart';
 import 'package:flutter/material.dart';
+// import 'package:alan_voice/alan_voice.dart';
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:youtube_player_flutter/youtube_player_flutter.dart';
 import 'package:webview_flutter/webview_flutter.dart';
@@ -60,6 +61,17 @@ class _HomePageState extends State<HomePage> {
 
   int _selectedIndex = 0;
 
+  // _HomePageState() {
+  //   /// Init Alan Button with project key from Alan AI Studio
+  //   AlanVoice.addButton(
+  //       "aa52753a16404b7fcf69d3be5eed61172e956eca572e1d8b807a3e2338fdd0dc/stage");
+
+  //   /// Handle commands from Alan AI Studio
+  //   AlanVoice.onCommand.add((command) {
+  //     debugPrint("got new command ${command.toString()}");
+  //   });
+  // }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -72,6 +84,13 @@ class _HomePageState extends State<HomePage> {
             color: Colors.deepPurple,
           ),
         ),
+        // actions: [
+        //   IconButton(
+        //     icon: const Icon(Icons.mic),
+        //     onPressed: () {
+        //     },
+        //   ),
+        // ],
       ),
       body: SafeArea(
         child: Padding(

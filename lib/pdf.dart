@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:syncfusion_flutter_pdfviewer/pdfviewer.dart';
-import 'package:share/share.dart';
-import 'dart:io';
+// import 'package:share/share.dart';
+// import 'dart:io';
 
 class YourPDFScreen extends StatelessWidget {
   @override
@@ -37,11 +37,4 @@ class PDFViewer extends StatelessWidget {
       ),
     );
   }
-
-  // void _sharePDF(BuildContext context, String pdfPath) {
-  //   final RenderBox box = context.findRenderObject() as RenderBox;
-  //   Share.shareFiles([pdfPath],
-  //       text: 'Check out this PDF!',
-  //       sharePositionOrigin: box.localToGlobal(Offset.zero) & box.size);
-  // }
 }
